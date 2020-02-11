@@ -1,4 +1,4 @@
-/*Create search index and then perform search by inputting terms*/
+/*Create search index and then input terms to perform search*/
 #include "stdafx.h"
 #include <stdio.h>
 #include <windows.h>
